@@ -8,7 +8,7 @@ import os
 
 
 ''' Python Power Cuckoo 
-    By Michael Hoffman (N3v3r1n3) 
+    By Michael Hoffman (1nd0) 
     Based off of Power Cuckoo by Nicholas Penning (napsta)
     Version 0.1
     Description: The automation pulling Malware and malicious links from emails and having Cukoo Start analysis.
